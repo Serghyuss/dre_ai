@@ -1,0 +1,1302 @@
+data,tipo,conta_contabil,valor
+2025-01-01,Receita,Receita Bruta de Vendas,142764
+2025-01-01,Despesa,Impostos sobre Vendas,-17131
+2025-01-01,Despesa,Custo das Mercadorias Vendidas,-57105
+2025-01-01,Despesa,Salários e Encargos,-25000
+2025-01-01,Despesa,Aluguel,-8000
+2025-01-01,Despesa,Energia Elétrica,-3000
+2025-01-01,Despesa,Despesas Administrativas,-5000
+2025-01-01,Receita,Receita Financeira,2000
+2025-01-01,Despesa,Despesas Financeiras,-1500
+2025-01-01,Despesa,Depreciação de Imobilizado,-5000
+2025-01-02,Despesa,Custo das Mercadorias Vendidas,-34198
+2025-01-02,Despesa,Salários e Encargos,-25000
+2025-01-02,Despesa,Aluguel,-8000
+2025-01-02,Despesa,Energia Elétrica,-3000
+2025-01-02,Despesa,Despesas Administrativas,-5000
+2025-01-02,Receita,Receita Bruta de Vendas,85497
+2025-01-02,Despesa,Impostos sobre Vendas,-10259
+2025-01-03,Despesa,Custo das Mercadorias Vendidas,-49692
+2025-01-03,Despesa,Salários e Encargos,-25000
+2025-01-03,Despesa,Aluguel,-8000
+2025-01-03,Despesa,Despesas Administrativas,-5000
+2025-01-03,Despesa,Impostos sobre Vendas,-14907
+2025-01-03,Despesa,Energia Elétrica,-3000
+2025-01-03,Receita,Receita Bruta de Vendas,124232
+2025-01-04,Despesa,Aluguel,-8000
+2025-01-04,Receita,Receita Bruta de Vendas,107070
+2025-01-04,Despesa,Impostos sobre Vendas,-12848
+2025-01-04,Despesa,Custo das Mercadorias Vendidas,-42828
+2025-01-04,Despesa,Salários e Encargos,-25000
+2025-01-04,Despesa,Energia Elétrica,-3000
+2025-01-04,Despesa,Despesas Administrativas,-5000
+2025-01-04,Receita,Receita Financeira,2000
+2025-01-04,Despesa,Despesas Financeiras,-1500
+2025-01-04,Despesa,Depreciação de Imobilizado,-5000
+2025-01-05,Despesa,Impostos sobre Vendas,-13106
+2025-01-05,Receita,Receita Bruta de Vendas,109217
+2025-01-05,Investimento,Compra de Máquinas (Imobilizado),-40000
+2025-01-05,Despesa,Despesas Financeiras,-1500
+2025-01-05,Receita,Receita Financeira,2000
+2025-01-05,Despesa,Custo das Mercadorias Vendidas,-43686
+2025-01-05,Despesa,Despesas Administrativas,-5000
+2025-01-05,Despesa,Energia Elétrica,-3000
+2025-01-05,Despesa,Aluguel,-8000
+2025-01-05,Despesa,Salários e Encargos,-25000
+2025-01-05,Despesa,Depreciação de Imobilizado,-5000
+2025-01-06,Receita,Receita Bruta de Vendas,120818
+2025-01-06,Despesa,Impostos sobre Vendas,-14498
+2025-01-06,Despesa,Custo das Mercadorias Vendidas,-48327
+2025-01-06,Despesa,Energia Elétrica,-3000
+2025-01-06,Despesa,Aluguel,-8000
+2025-01-06,Despesa,Despesas Administrativas,-5000
+2025-01-06,Despesa,Salários e Encargos,-25000
+2025-02-01,Despesa,Salários e Encargos,-25000
+2025-02-01,Despesa,Energia Elétrica,-3000
+2025-02-01,Despesa,Aluguel,-8000
+2025-02-01,Despesa,Custo das Mercadorias Vendidas,-32589
+2025-02-01,Despesa,Despesas Administrativas,-5000
+2025-02-01,Receita,Receita Bruta de Vendas,81473
+2025-02-01,Despesa,Impostos sobre Vendas,-9776
+2025-02-02,Despesa,Impostos sobre Vendas,-16529
+2025-02-02,Despesa,Custo das Mercadorias Vendidas,-55098
+2025-02-02,Despesa,Salários e Encargos,-25000
+2025-02-02,Despesa,Aluguel,-8000
+2025-02-02,Receita,Receita Bruta de Vendas,137747
+2025-02-02,Despesa,Energia Elétrica,-3000
+2025-02-02,Despesa,Despesas Administrativas,-5000
+2025-02-03,Despesa,Depreciação de Imobilizado,-5000
+2025-02-03,Investimento,Compra de Máquinas (Imobilizado),-40000
+2025-02-03,Receita,Receita Financeira,2000
+2025-02-03,Despesa,Despesas Administrativas,-5000
+2025-02-03,Despesa,Salários e Encargos,-25000
+2025-02-03,Despesa,Custo das Mercadorias Vendidas,-55960
+2025-02-03,Despesa,Impostos sobre Vendas,-16788
+2025-02-03,Receita,Receita Bruta de Vendas,139901
+2025-02-03,Despesa,Despesas Financeiras,-1500
+2025-02-03,Despesa,Aluguel,-8000
+2025-02-03,Despesa,Energia Elétrica,-3000
+2025-02-04,Receita,Receita Bruta de Vendas,85328
+2025-02-04,Despesa,Impostos sobre Vendas,-10239
+2025-02-04,Despesa,Custo das Mercadorias Vendidas,-34131
+2025-02-04,Despesa,Salários e Encargos,-25000
+2025-02-04,Despesa,Despesas Administrativas,-5000
+2025-02-04,Despesa,Energia Elétrica,-3000
+2025-02-04,Despesa,Aluguel,-8000
+2025-02-05,Despesa,Impostos sobre Vendas,-12146
+2025-02-05,Despesa,Despesas Administrativas,-5000
+2025-02-05,Despesa,Energia Elétrica,-3000
+2025-02-05,Despesa,Aluguel,-8000
+2025-02-05,Despesa,Salários e Encargos,-25000
+2025-02-05,Despesa,Custo das Mercadorias Vendidas,-40488
+2025-02-05,Receita,Receita Bruta de Vendas,101221
+2025-02-06,Despesa,Energia Elétrica,-3000
+2025-02-06,Despesa,Aluguel,-8000
+2025-02-06,Despesa,Salários e Encargos,-25000
+2025-02-06,Despesa,Custo das Mercadorias Vendidas,-56810
+2025-02-06,Despesa,Impostos sobre Vendas,-17043
+2025-02-06,Receita,Receita Bruta de Vendas,142026
+2025-02-06,Despesa,Despesas Administrativas,-5000
+2025-03-01,Despesa,Despesas Administrativas,-5000
+2025-03-01,Despesa,Custo das Mercadorias Vendidas,-36360
+2025-03-01,Despesa,Impostos sobre Vendas,-10908
+2025-03-01,Despesa,Salários e Encargos,-25000
+2025-03-01,Despesa,Aluguel,-8000
+2025-03-01,Despesa,Energia Elétrica,-3000
+2025-03-01,Receita,Receita Bruta de Vendas,90900
+2025-03-02,Despesa,Energia Elétrica,-3000
+2025-03-02,Despesa,Despesas Administrativas,-5000
+2025-03-02,Despesa,Salários e Encargos,-25000
+2025-03-02,Despesa,Aluguel,-8000
+2025-03-02,Despesa,Custo das Mercadorias Vendidas,-55110
+2025-03-02,Despesa,Impostos sobre Vendas,-16533
+2025-03-02,Receita,Receita Bruta de Vendas,137775
+2025-03-03,Despesa,Despesas Administrativas,-5000
+2025-03-03,Receita,Receita Bruta de Vendas,82816
+2025-03-03,Despesa,Impostos sobre Vendas,-9937
+2025-03-03,Despesa,Custo das Mercadorias Vendidas,-33126
+2025-03-03,Despesa,Energia Elétrica,-3000
+2025-03-03,Despesa,Salários e Encargos,-25000
+2025-03-03,Despesa,Aluguel,-8000
+2025-03-04,Despesa,Custo das Mercadorias Vendidas,-51775
+2025-03-04,Despesa,Impostos sobre Vendas,-15532
+2025-03-04,Despesa,Despesas Administrativas,-5000
+2025-03-04,Despesa,Energia Elétrica,-3000
+2025-03-04,Despesa,Aluguel,-8000
+2025-03-04,Despesa,Salários e Encargos,-25000
+2025-03-04,Receita,Receita Bruta de Vendas,129438
+2025-03-05,Despesa,Custo das Mercadorias Vendidas,-47417
+2025-03-05,Despesa,Salários e Encargos,-25000
+2025-03-05,Despesa,Impostos sobre Vendas,-14225
+2025-03-05,Despesa,Energia Elétrica,-3000
+2025-03-05,Despesa,Despesas Administrativas,-5000
+2025-03-05,Receita,Receita Bruta de Vendas,118543
+2025-03-05,Despesa,Aluguel,-8000
+2025-03-06,Despesa,Despesas Administrativas,-5000
+2025-03-06,Despesa,Energia Elétrica,-3000
+2025-03-06,Despesa,Aluguel,-8000
+2025-03-06,Despesa,Custo das Mercadorias Vendidas,-55099
+2025-03-06,Despesa,Impostos sobre Vendas,-16529
+2025-03-06,Receita,Receita Bruta de Vendas,137749
+2025-03-06,Despesa,Salários e Encargos,-25000
+2025-04-01,Receita,Receita Bruta de Vendas,124788
+2025-04-01,Despesa,Custo das Mercadorias Vendidas,-49915
+2025-04-01,Despesa,Energia Elétrica,-3000
+2025-04-01,Despesa,Aluguel,-8000
+2025-04-01,Despesa,Salários e Encargos,-25000
+2025-04-01,Despesa,Impostos sobre Vendas,-14974
+2025-04-01,Despesa,Despesas Administrativas,-5000
+2025-04-02,Despesa,Custo das Mercadorias Vendidas,-59847
+2025-04-02,Despesa,Aluguel,-8000
+2025-04-02,Despesa,Energia Elétrica,-3000
+2025-04-02,Despesa,Despesas Administrativas,-5000
+2025-04-02,Despesa,Salários e Encargos,-25000
+2025-04-02,Despesa,Impostos sobre Vendas,-17954
+2025-04-02,Receita,Receita Bruta de Vendas,149619
+2025-04-03,Despesa,Custo das Mercadorias Vendidas,-41231
+2025-04-03,Despesa,Impostos sobre Vendas,-12369
+2025-04-03,Despesa,Despesas Administrativas,-5000
+2025-04-03,Despesa,Energia Elétrica,-3000
+2025-04-03,Despesa,Aluguel,-8000
+2025-04-03,Despesa,Salários e Encargos,-25000
+2025-04-03,Receita,Receita Bruta de Vendas,103079
+2025-04-04,Receita,Receita Bruta de Vendas,122311
+2025-04-04,Despesa,Custo das Mercadorias Vendidas,-48924
+2025-04-04,Despesa,Salários e Encargos,-25000
+2025-04-04,Despesa,Aluguel,-8000
+2025-04-04,Despesa,Energia Elétrica,-3000
+2025-04-04,Despesa,Despesas Administrativas,-5000
+2025-04-04,Despesa,Impostos sobre Vendas,-14677
+2025-04-05,Despesa,Custo das Mercadorias Vendidas,-49753
+2025-04-05,Despesa,Salários e Encargos,-25000
+2025-04-05,Despesa,Impostos sobre Vendas,-14925
+2025-04-05,Receita,Receita Bruta de Vendas,124383
+2025-04-05,Despesa,Energia Elétrica,-3000
+2025-04-05,Despesa,Aluguel,-8000
+2025-04-05,Despesa,Despesas Administrativas,-5000
+2025-04-06,Despesa,Salários e Encargos,-25000
+2025-04-06,Despesa,Impostos sobre Vendas,-12713
+2025-04-06,Receita,Receita Bruta de Vendas,105944
+2025-04-06,Despesa,Despesas Administrativas,-5000
+2025-04-06,Despesa,Energia Elétrica,-3000
+2025-04-06,Despesa,Aluguel,-8000
+2025-04-06,Despesa,Custo das Mercadorias Vendidas,-42377
+2025-05-01,Despesa,Despesas Administrativas,-5000
+2025-05-01,Despesa,Custo das Mercadorias Vendidas,-57450
+2025-05-01,Despesa,Salários e Encargos,-25000
+2025-05-01,Despesa,Impostos sobre Vendas,-17235
+2025-05-01,Despesa,Energia Elétrica,-3000
+2025-05-01,Receita,Receita Bruta de Vendas,143625
+2025-05-01,Despesa,Aluguel,-8000
+2025-05-02,Despesa,Salários e Encargos,-25000
+2025-05-02,Despesa,Custo das Mercadorias Vendidas,-50135
+2025-05-02,Despesa,Impostos sobre Vendas,-15040
+2025-05-02,Despesa,Aluguel,-8000
+2025-05-02,Receita,Receita Bruta de Vendas,125339
+2025-05-02,Despesa,Despesas Administrativas,-5000
+2025-05-02,Despesa,Energia Elétrica,-3000
+2025-05-03,Despesa,Impostos sobre Vendas,-16034
+2025-05-03,Despesa,Salários e Encargos,-25000
+2025-05-03,Despesa,Aluguel,-8000
+2025-05-03,Despesa,Energia Elétrica,-3000
+2025-05-03,Receita,Receita Bruta de Vendas,133617
+2025-05-03,Despesa,Despesas Administrativas,-5000
+2025-05-03,Despesa,Custo das Mercadorias Vendidas,-53446
+2025-05-04,Despesa,Salários e Encargos,-25000
+2025-05-04,Despesa,Aluguel,-8000
+2025-05-04,Despesa,Despesas Administrativas,-5000
+2025-05-04,Despesa,Energia Elétrica,-3000
+2025-05-04,Receita,Receita Bruta de Vendas,110767
+2025-05-04,Despesa,Impostos sobre Vendas,-13292
+2025-05-04,Despesa,Custo das Mercadorias Vendidas,-44306
+2025-05-05,Despesa,Aluguel,-8000
+2025-05-05,Despesa,Custo das Mercadorias Vendidas,-40648
+2025-05-05,Receita,Receita Bruta de Vendas,101621
+2025-05-05,Despesa,Salários e Encargos,-25000
+2025-05-05,Despesa,Impostos sobre Vendas,-12194
+2025-05-05,Despesa,Despesas Administrativas,-5000
+2025-05-05,Despesa,Energia Elétrica,-3000
+2025-05-06,Despesa,Energia Elétrica,-3000
+2025-05-06,Receita,Receita Bruta de Vendas,100211
+2025-05-06,Despesa,Despesas Administrativas,-5000
+2025-05-06,Despesa,Impostos sobre Vendas,-12025
+2025-05-06,Despesa,Aluguel,-8000
+2025-05-06,Despesa,Salários e Encargos,-25000
+2025-05-06,Despesa,Custo das Mercadorias Vendidas,-40084
+2025-06-01,Receita,Receita Bruta de Vendas,136623
+2025-06-01,Despesa,Despesas Administrativas,-5000
+2025-06-01,Despesa,Impostos sobre Vendas,-16394
+2025-06-01,Despesa,Aluguel,-8000
+2025-06-01,Despesa,Salários e Encargos,-25000
+2025-06-01,Despesa,Custo das Mercadorias Vendidas,-54649
+2025-06-01,Despesa,Energia Elétrica,-3000
+2025-06-02,Receita,Receita Bruta de Vendas,83521
+2025-06-02,Despesa,Impostos sobre Vendas,-10022
+2025-06-02,Despesa,Custo das Mercadorias Vendidas,-33408
+2025-06-02,Despesa,Salários e Encargos,-25000
+2025-06-02,Despesa,Aluguel,-8000
+2025-06-02,Despesa,Energia Elétrica,-3000
+2025-06-02,Despesa,Despesas Administrativas,-5000
+2025-06-03,Receita,Receita Bruta de Vendas,117963
+2025-06-03,Despesa,Energia Elétrica,-3000
+2025-06-03,Despesa,Aluguel,-8000
+2025-06-03,Despesa,Salários e Encargos,-25000
+2025-06-03,Despesa,Custo das Mercadorias Vendidas,-47185
+2025-06-03,Despesa,Impostos sobre Vendas,-14155
+2025-06-03,Despesa,Despesas Administrativas,-5000
+2025-06-04,Receita,Receita Bruta de Vendas,83549
+2025-06-04,Despesa,Despesas Administrativas,-5000
+2025-06-04,Despesa,Energia Elétrica,-3000
+2025-06-04,Despesa,Impostos sobre Vendas,-10025
+2025-06-04,Despesa,Aluguel,-8000
+2025-06-04,Despesa,Salários e Encargos,-25000
+2025-06-04,Despesa,Custo das Mercadorias Vendidas,-33419
+2025-06-05,Despesa,Custo das Mercadorias Vendidas,-55738
+2025-06-05,Despesa,Salários e Encargos,-25000
+2025-06-05,Despesa,Aluguel,-8000
+2025-06-05,Despesa,Energia Elétrica,-3000
+2025-06-05,Despesa,Despesas Administrativas,-5000
+2025-06-05,Despesa,Impostos sobre Vendas,-16721
+2025-06-05,Receita,Receita Bruta de Vendas,139346
+2025-06-06,Despesa,Impostos sobre Vendas,-10371
+2025-06-06,Receita,Receita Bruta de Vendas,86425
+2025-06-06,Despesa,Custo das Mercadorias Vendidas,-34570
+2025-06-06,Despesa,Salários e Encargos,-25000
+2025-06-06,Despesa,Aluguel,-8000
+2025-06-06,Despesa,Energia Elétrica,-3000
+2025-06-06,Despesa,Despesas Administrativas,-5000
+2025-07-01,Despesa,Impostos sobre Vendas,-11117
+2025-07-01,Despesa,Aluguel,-8000
+2025-07-01,Receita,Receita Bruta de Vendas,92646
+2025-07-01,Despesa,Custo das Mercadorias Vendidas,-37058
+2025-07-01,Despesa,Salários e Encargos,-25000
+2025-07-01,Despesa,Energia Elétrica,-3000
+2025-07-01,Despesa,Despesas Administrativas,-5000
+2025-07-02,Despesa,Aluguel,-8000
+2025-07-02,Despesa,Salários e Encargos,-25000
+2025-07-02,Despesa,Custo das Mercadorias Vendidas,-47464
+2025-07-02,Despesa,Impostos sobre Vendas,-14239
+2025-07-02,Receita,Receita Bruta de Vendas,118660
+2025-07-02,Despesa,Despesas Administrativas,-5000
+2025-07-02,Despesa,Energia Elétrica,-3000
+2025-07-03,Despesa,Custo das Mercadorias Vendidas,-34370
+2025-07-03,Receita,Receita Bruta de Vendas,85926
+2025-07-03,Despesa,Impostos sobre Vendas,-10311
+2025-07-03,Despesa,Salários e Encargos,-25000
+2025-07-03,Despesa,Aluguel,-8000
+2025-07-03,Despesa,Energia Elétrica,-3000
+2025-07-03,Despesa,Despesas Administrativas,-5000
+2025-07-04,Despesa,Salários e Encargos,-25000
+2025-07-04,Despesa,Custo das Mercadorias Vendidas,-56303
+2025-07-04,Despesa,Impostos sobre Vendas,-16890
+2025-07-04,Receita,Receita Bruta de Vendas,140758
+2025-07-04,Despesa,Despesas Administrativas,-5000
+2025-07-04,Despesa,Energia Elétrica,-3000
+2025-07-04,Despesa,Aluguel,-8000
+2025-07-05,Despesa,Salários e Encargos,-25000
+2025-07-05,Despesa,Custo das Mercadorias Vendidas,-36919
+2025-07-05,Despesa,Impostos sobre Vendas,-11075
+2025-07-05,Receita,Receita Bruta de Vendas,92298
+2025-07-05,Despesa,Aluguel,-8000
+2025-07-05,Despesa,Energia Elétrica,-3000
+2025-07-05,Despesa,Despesas Administrativas,-5000
+2025-07-06,Despesa,Energia Elétrica,-3000
+2025-07-06,Despesa,Despesas Administrativas,-5000
+2025-07-06,Receita,Receita Bruta de Vendas,145497
+2025-07-06,Despesa,Aluguel,-8000
+2025-07-06,Despesa,Custo das Mercadorias Vendidas,-58198
+2025-07-06,Despesa,Impostos sobre Vendas,-17459
+2025-07-06,Despesa,Salários e Encargos,-25000
+2025-08-01,Receita,Receita Bruta de Vendas,82269
+2025-08-01,Despesa,Aluguel,-8000
+2025-08-01,Despesa,Custo das Mercadorias Vendidas,-32907
+2025-08-01,Despesa,Salários e Encargos,-25000
+2025-08-01,Despesa,Energia Elétrica,-3000
+2025-08-01,Despesa,Despesas Administrativas,-5000
+2025-08-01,Despesa,Impostos sobre Vendas,-9872
+2025-08-02,Despesa,Aluguel,-8000
+2025-08-02,Despesa,Energia Elétrica,-3000
+2025-08-02,Despesa,Despesas Administrativas,-5000
+2025-08-02,Despesa,Impostos sobre Vendas,-9623
+2025-08-02,Despesa,Custo das Mercadorias Vendidas,-32079
+2025-08-02,Despesa,Salários e Encargos,-25000
+2025-08-02,Receita,Receita Bruta de Vendas,80199
+2025-08-03,Despesa,Salários e Encargos,-25000
+2025-08-03,Despesa,Aluguel,-8000
+2025-08-03,Despesa,Energia Elétrica,-3000
+2025-08-03,Despesa,Despesas Administrativas,-5000
+2025-08-03,Despesa,Custo das Mercadorias Vendidas,-33292
+2025-08-03,Despesa,Impostos sobre Vendas,-9987
+2025-08-03,Receita,Receita Bruta de Vendas,83230
+2025-08-04,Despesa,Impostos sobre Vendas,-10172
+2025-08-04,Despesa,Energia Elétrica,-3000
+2025-08-04,Despesa,Aluguel,-8000
+2025-08-04,Despesa,Salários e Encargos,-25000
+2025-08-04,Despesa,Custo das Mercadorias Vendidas,-33908
+2025-08-04,Receita,Receita Bruta de Vendas,84771
+2025-08-04,Despesa,Despesas Administrativas,-5000
+2025-08-05,Receita,Receita Bruta de Vendas,91760
+2025-08-05,Despesa,Despesas Administrativas,-5000
+2025-08-05,Despesa,Custo das Mercadorias Vendidas,-36704
+2025-08-05,Despesa,Energia Elétrica,-3000
+2025-08-05,Despesa,Salários e Encargos,-25000
+2025-08-05,Despesa,Impostos sobre Vendas,-11011
+2025-08-05,Despesa,Aluguel,-8000
+2025-08-06,Despesa,Aluguel,-8000
+2025-08-06,Despesa,Salários e Encargos,-25000
+2025-08-06,Receita,Receita Bruta de Vendas,142681
+2025-08-06,Despesa,Impostos sobre Vendas,-17121
+2025-08-06,Despesa,Custo das Mercadorias Vendidas,-57072
+2025-08-06,Despesa,Despesas Administrativas,-5000
+2025-08-06,Despesa,Energia Elétrica,-3000
+2025-09-01,Receita,Receita Bruta de Vendas,93326
+2025-09-01,Despesa,Impostos sobre Vendas,-11199
+2025-09-01,Despesa,Custo das Mercadorias Vendidas,-37330
+2025-09-01,Despesa,Salários e Encargos,-25000
+2025-09-01,Despesa,Aluguel,-8000
+2025-09-01,Despesa,Energia Elétrica,-3000
+2025-09-01,Despesa,Despesas Administrativas,-5000
+2025-09-02,Receita,Receita Bruta de Vendas,137290
+2025-09-02,Despesa,Impostos sobre Vendas,-16474
+2025-09-02,Despesa,Custo das Mercadorias Vendidas,-54916
+2025-09-02,Despesa,Salários e Encargos,-25000
+2025-09-02,Despesa,Aluguel,-8000
+2025-09-02,Despesa,Despesas Administrativas,-5000
+2025-09-02,Despesa,Energia Elétrica,-3000
+2025-09-03,Despesa,Energia Elétrica,-3000
+2025-09-03,Despesa,Impostos sobre Vendas,-12979
+2025-09-03,Despesa,Custo das Mercadorias Vendidas,-43264
+2025-09-03,Despesa,Salários e Encargos,-25000
+2025-09-03,Despesa,Aluguel,-8000
+2025-09-03,Receita,Receita Bruta de Vendas,108161
+2025-09-03,Despesa,Despesas Administrativas,-5000
+2025-09-04,Despesa,Impostos sobre Vendas,-17321
+2025-09-04,Receita,Receita Bruta de Vendas,144343
+2025-09-04,Despesa,Custo das Mercadorias Vendidas,-57737
+2025-09-04,Despesa,Aluguel,-8000
+2025-09-04,Despesa,Energia Elétrica,-3000
+2025-09-04,Despesa,Despesas Administrativas,-5000
+2025-09-04,Despesa,Salários e Encargos,-25000
+2025-09-05,Despesa,Impostos sobre Vendas,-14490
+2025-09-05,Despesa,Custo das Mercadorias Vendidas,-48302
+2025-09-05,Despesa,Despesas Administrativas,-5000
+2025-09-05,Receita,Receita Bruta de Vendas,120755
+2025-09-05,Despesa,Energia Elétrica,-3000
+2025-09-05,Despesa,Aluguel,-8000
+2025-09-05,Despesa,Salários e Encargos,-25000
+2025-09-06,Despesa,Custo das Mercadorias Vendidas,-50976
+2025-09-06,Receita,Receita Bruta de Vendas,127442
+2025-09-06,Despesa,Impostos sobre Vendas,-15293
+2025-09-06,Despesa,Despesas Administrativas,-5000
+2025-09-06,Despesa,Aluguel,-8000
+2025-09-06,Despesa,Salários e Encargos,-25000
+2025-09-06,Despesa,Energia Elétrica,-3000
+2025-10-01,Despesa,Despesas Administrativas,-5000
+2025-10-01,Despesa,Aluguel,-8000
+2025-10-01,Despesa,Salários e Encargos,-25000
+2025-10-01,Despesa,Custo das Mercadorias Vendidas,-50243
+2025-10-01,Despesa,Impostos sobre Vendas,-15073
+2025-10-01,Receita,Receita Bruta de Vendas,125609
+2025-10-01,Despesa,Energia Elétrica,-3000
+2025-10-02,Receita,Receita Financeira,2000
+2025-10-02,Despesa,Despesas Administrativas,-5000
+2025-10-02,Despesa,Salários e Encargos,-25000
+2025-10-02,Despesa,Energia Elétrica,-3000
+2025-10-02,Despesa,Aluguel,-8000
+2025-10-02,Despesa,Custo das Mercadorias Vendidas,-54525
+2025-10-02,Despesa,Impostos sobre Vendas,-16357
+2025-10-02,Receita,Receita Bruta de Vendas,136313
+2025-10-03,Despesa,Impostos sobre Vendas,-9679
+2025-10-03,Despesa,Custo das Mercadorias Vendidas,-32263
+2025-10-03,Despesa,Salários e Encargos,-25000
+2025-10-03,Despesa,Aluguel,-8000
+2025-10-03,Despesa,Energia Elétrica,-3000
+2025-10-03,Despesa,Despesas Administrativas,-5000
+2025-10-03,Receita,Receita Bruta de Vendas,80659
+2025-10-04,Despesa,Despesas Administrativas,-5000
+2025-10-04,Despesa,Energia Elétrica,-3000
+2025-10-04,Despesa,Aluguel,-8000
+2025-10-04,Despesa,Impostos sobre Vendas,-13795
+2025-10-04,Despesa,Salários e Encargos,-25000
+2025-10-04,Despesa,Custo das Mercadorias Vendidas,-45983
+2025-10-04,Receita,Receita Bruta de Vendas,114959
+2025-10-05,Despesa,Impostos sobre Vendas,-15484
+2025-10-05,Despesa,Custo das Mercadorias Vendidas,-51616
+2025-10-05,Despesa,Salários e Encargos,-25000
+2025-10-05,Despesa,Energia Elétrica,-3000
+2025-10-05,Despesa,Despesas Administrativas,-5000
+2025-10-05,Receita,Receita Bruta de Vendas,129041
+2025-10-05,Despesa,Aluguel,-8000
+2025-10-06,Receita,Receita Bruta de Vendas,131424
+2025-10-06,Despesa,Custo das Mercadorias Vendidas,-52569
+2025-10-06,Despesa,Salários e Encargos,-25000
+2025-10-06,Despesa,Aluguel,-8000
+2025-10-06,Despesa,Energia Elétrica,-3000
+2025-10-06,Despesa,Despesas Administrativas,-5000
+2025-10-06,Receita,Receita Financeira,2000
+2025-10-06,Despesa,Impostos sobre Vendas,-15770
+2025-11-01,Receita,Receita Financeira,2000
+2025-11-01,Receita,Receita Bruta de Vendas,127495
+2025-11-01,Despesa,Impostos sobre Vendas,-15299
+2025-11-01,Despesa,Aluguel,-8000
+2025-11-01,Despesa,Salários e Encargos,-25000
+2025-11-01,Despesa,Despesas Administrativas,-5000
+2025-11-01,Despesa,Energia Elétrica,-3000
+2025-11-01,Despesa,Custo das Mercadorias Vendidas,-50998
+2025-11-02,Receita,Receita Bruta de Vendas,104729
+2025-11-02,Despesa,Custo das Mercadorias Vendidas,-41891
+2025-11-02,Despesa,Impostos sobre Vendas,-12567
+2025-11-02,Despesa,Aluguel,-8000
+2025-11-02,Despesa,Energia Elétrica,-3000
+2025-11-02,Despesa,Despesas Administrativas,-5000
+2025-11-02,Despesa,Salários e Encargos,-25000
+2025-11-03,Despesa,Energia Elétrica,-3000
+2025-11-03,Despesa,Aluguel,-8000
+2025-11-03,Despesa,Despesas Administrativas,-5000
+2025-11-03,Despesa,Custo das Mercadorias Vendidas,-47167
+2025-11-03,Despesa,Impostos sobre Vendas,-14150
+2025-11-03,Despesa,Salários e Encargos,-25000
+2025-11-03,Receita,Receita Bruta de Vendas,117918
+2025-11-04,Receita,Receita Bruta de Vendas,147732
+2025-11-04,Despesa,Impostos sobre Vendas,-17727
+2025-11-04,Despesa,Custo das Mercadorias Vendidas,-59092
+2025-11-04,Despesa,Salários e Encargos,-25000
+2025-11-04,Despesa,Aluguel,-8000
+2025-11-04,Despesa,Energia Elétrica,-3000
+2025-11-04,Despesa,Despesas Administrativas,-5000
+2025-11-04,Receita,Receita Financeira,2000
+2025-11-05,Despesa,Energia Elétrica,-3000
+2025-11-05,Despesa,Despesas Administrativas,-5000
+2025-11-05,Receita,Receita Financeira,2000
+2025-11-05,Despesa,Salários e Encargos,-25000
+2025-11-05,Despesa,Custo das Mercadorias Vendidas,-57223
+2025-11-05,Despesa,Impostos sobre Vendas,-17166
+2025-11-05,Despesa,Aluguel,-8000
+2025-11-05,Receita,Receita Bruta de Vendas,143058
+2025-11-06,Despesa,Custo das Mercadorias Vendidas,-53943
+2025-11-06,Receita,Receita Bruta de Vendas,134859
+2025-11-06,Despesa,Impostos sobre Vendas,-16183
+2025-11-06,Despesa,Salários e Encargos,-25000
+2025-11-06,Despesa,Aluguel,-8000
+2025-11-06,Despesa,Energia Elétrica,-3000
+2025-11-06,Despesa,Despesas Administrativas,-5000
+2025-12-01,Despesa,Salários e Encargos,-25000
+2025-12-01,Despesa,Aluguel,-8000
+2025-12-01,Despesa,Despesas Administrativas,-5000
+2025-12-01,Despesa,Energia Elétrica,-3000
+2025-12-01,Receita,Receita Bruta de Vendas,87752
+2025-12-01,Despesa,Impostos sobre Vendas,-10530
+2025-12-01,Despesa,Custo das Mercadorias Vendidas,-35100
+2025-12-02,Receita,Receita Bruta de Vendas,106928
+2025-12-02,Despesa,Impostos sobre Vendas,-12831
+2025-12-02,Despesa,Custo das Mercadorias Vendidas,-42771
+2025-12-02,Despesa,Aluguel,-8000
+2025-12-02,Despesa,Salários e Encargos,-25000
+2025-12-02,Despesa,Energia Elétrica,-3000
+2025-12-02,Despesa,Despesas Administrativas,-5000
+2025-12-03,Receita,Receita Financeira,2000
+2025-12-03,Receita,Receita Bruta de Vendas,113094
+2025-12-03,Despesa,Impostos sobre Vendas,-13571
+2025-12-03,Despesa,Custo das Mercadorias Vendidas,-45237
+2025-12-03,Despesa,Salários e Encargos,-25000
+2025-12-03,Despesa,Aluguel,-8000
+2025-12-03,Despesa,Energia Elétrica,-3000
+2025-12-03,Despesa,Despesas Administrativas,-5000
+2025-12-04,Despesa,Impostos sobre Vendas,-10993
+2025-12-04,Despesa,Despesas Administrativas,-5000
+2025-12-04,Despesa,Energia Elétrica,-3000
+2025-12-04,Despesa,Aluguel,-8000
+2025-12-04,Despesa,Salários e Encargos,-25000
+2025-12-04,Despesa,Custo das Mercadorias Vendidas,-36646
+2025-12-04,Receita,Receita Bruta de Vendas,91615
+2025-12-05,Despesa,Energia Elétrica,-3000
+2025-12-05,Receita,Receita Bruta de Vendas,86214
+2025-12-05,Despesa,Impostos sobre Vendas,-10345
+2025-12-05,Despesa,Custo das Mercadorias Vendidas,-34485
+2025-12-05,Despesa,Salários e Encargos,-25000
+2025-12-05,Despesa,Aluguel,-8000
+2025-12-05,Despesa,Despesas Administrativas,-5000
+2025-12-06,Despesa,Aluguel,-8000
+2025-12-06,Despesa,Salários e Encargos,-25000
+2025-12-06,Despesa,Energia Elétrica,-3000
+2025-12-06,Despesa,Impostos sobre Vendas,-15169
+2025-12-06,Receita,Receita Bruta de Vendas,126409
+2025-12-06,Despesa,Custo das Mercadorias Vendidas,-50563
+2025-12-06,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,85220
+,Despesa,Impostos sobre Vendas,-10226
+,Despesa,Custo das Mercadorias Vendidas,-34088
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,139894
+,Despesa,Impostos sobre Vendas,-16787
+,Despesa,Custo das Mercadorias Vendidas,-55957
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,89512
+,Despesa,Impostos sobre Vendas,-10741
+,Despesa,Custo das Mercadorias Vendidas,-35804
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,120786
+,Despesa,Impostos sobre Vendas,-14494
+,Despesa,Custo das Mercadorias Vendidas,-48314
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Despesa,Despesas Financeiras,-1500
+,Receita,Receita Bruta de Vendas,123801
+,Despesa,Impostos sobre Vendas,-14856
+,Despesa,Custo das Mercadorias Vendidas,-49520
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,148331
+,Despesa,Impostos sobre Vendas,-17799
+,Despesa,Custo das Mercadorias Vendidas,-59332
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,82915
+,Despesa,Impostos sobre Vendas,-9949
+,Despesa,Custo das Mercadorias Vendidas,-33166
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,140391
+,Despesa,Impostos sobre Vendas,-16846
+,Despesa,Custo das Mercadorias Vendidas,-56156
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,136374
+,Despesa,Impostos sobre Vendas,-16364
+,Despesa,Custo das Mercadorias Vendidas,-54549
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Financeira,2000
+,Investimento,Compra de Máquinas (Imobilizado),-40000
+,Receita,Receita Bruta de Vendas,139475
+,Despesa,Impostos sobre Vendas,-16737
+,Despesa,Custo das Mercadorias Vendidas,-55790
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,128794
+,Despesa,Impostos sobre Vendas,-15455
+,Despesa,Custo das Mercadorias Vendidas,-51517
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,146317
+,Despesa,Impostos sobre Vendas,-17558
+,Despesa,Custo das Mercadorias Vendidas,-58526
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,137733
+,Despesa,Impostos sobre Vendas,-16527
+,Despesa,Custo das Mercadorias Vendidas,-55093
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,132126
+,Despesa,Impostos sobre Vendas,-15855
+,Despesa,Custo das Mercadorias Vendidas,-52850
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,149478
+,Despesa,Impostos sobre Vendas,-17937
+,Despesa,Custo das Mercadorias Vendidas,-59791
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,145645
+,Despesa,Impostos sobre Vendas,-17477
+,Despesa,Custo das Mercadorias Vendidas,-58258
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,90099
+,Despesa,Impostos sobre Vendas,-10811
+,Despesa,Custo das Mercadorias Vendidas,-36039
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,106297
+,Despesa,Impostos sobre Vendas,-12755
+,Despesa,Custo das Mercadorias Vendidas,-42518
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,144670
+,Despesa,Impostos sobre Vendas,-17360
+,Despesa,Custo das Mercadorias Vendidas,-57868
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Financeira,2000
+,Despesa,Despesas Financeiras,-1500
+,Despesa,Depreciação de Imobilizado,-5000
+,Receita,Receita Bruta de Vendas,136451
+,Despesa,Impostos sobre Vendas,-16374
+,Despesa,Custo das Mercadorias Vendidas,-54580
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,107562
+,Despesa,Impostos sobre Vendas,-12907
+,Despesa,Custo das Mercadorias Vendidas,-43024
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,125059
+,Despesa,Impostos sobre Vendas,-15007
+,Despesa,Custo das Mercadorias Vendidas,-50023
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Despesa,Despesas Financeiras,-1500
+,Investimento,Compra de Veículo (Imobilizado),-70000
+,Receita,Receita Bruta de Vendas,110282
+,Despesa,Impostos sobre Vendas,-13233
+,Despesa,Custo das Mercadorias Vendidas,-44112
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,101270
+,Despesa,Impostos sobre Vendas,-12152
+,Despesa,Custo das Mercadorias Vendidas,-40508
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,119423
+,Despesa,Impostos sobre Vendas,-14330
+,Despesa,Custo das Mercadorias Vendidas,-47769
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,84910
+,Despesa,Impostos sobre Vendas,-10189
+,Despesa,Custo das Mercadorias Vendidas,-33964
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,121316
+,Despesa,Impostos sobre Vendas,-14557
+,Despesa,Custo das Mercadorias Vendidas,-48526
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Financeira,2000
+,Receita,Receita Bruta de Vendas,116221
+,Despesa,Impostos sobre Vendas,-13946
+,Despesa,Custo das Mercadorias Vendidas,-46488
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,80312
+,Despesa,Impostos sobre Vendas,-9637
+,Despesa,Custo das Mercadorias Vendidas,-32124
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,145388
+,Despesa,Impostos sobre Vendas,-17446
+,Despesa,Custo das Mercadorias Vendidas,-58155
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,115839
+,Despesa,Impostos sobre Vendas,-13900
+,Despesa,Custo das Mercadorias Vendidas,-46335
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,124489
+,Despesa,Impostos sobre Vendas,-14938
+,Despesa,Custo das Mercadorias Vendidas,-49795
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,149617
+,Despesa,Impostos sobre Vendas,-17954
+,Despesa,Custo das Mercadorias Vendidas,-59846
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,105402
+,Despesa,Impostos sobre Vendas,-12648
+,Despesa,Custo das Mercadorias Vendidas,-42160
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,98432
+,Despesa,Impostos sobre Vendas,-11811
+,Despesa,Custo das Mercadorias Vendidas,-39372
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,140317
+,Despesa,Impostos sobre Vendas,-16838
+,Despesa,Custo das Mercadorias Vendidas,-56126
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,144035
+,Despesa,Impostos sobre Vendas,-17284
+,Despesa,Custo das Mercadorias Vendidas,-57614
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,83635
+,Despesa,Impostos sobre Vendas,-10036
+,Despesa,Custo das Mercadorias Vendidas,-33454
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,91311
+,Despesa,Impostos sobre Vendas,-10957
+,Despesa,Custo das Mercadorias Vendidas,-36524
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,144825
+,Despesa,Impostos sobre Vendas,-17379
+,Despesa,Custo das Mercadorias Vendidas,-57930
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Despesa,Despesas Financeiras,-1500
+,Receita,Receita Bruta de Vendas,137315
+,Despesa,Impostos sobre Vendas,-16477
+,Despesa,Custo das Mercadorias Vendidas,-54926
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,130603
+,Despesa,Impostos sobre Vendas,-15672
+,Despesa,Custo das Mercadorias Vendidas,-52241
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,107542
+,Despesa,Impostos sobre Vendas,-12905
+,Despesa,Custo das Mercadorias Vendidas,-43016
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,93904
+,Despesa,Impostos sobre Vendas,-11268
+,Despesa,Custo das Mercadorias Vendidas,-37561
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,87594
+,Despesa,Impostos sobre Vendas,-10511
+,Despesa,Custo das Mercadorias Vendidas,-35037
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Financeira,2000
+,Receita,Receita Bruta de Vendas,102518
+,Despesa,Impostos sobre Vendas,-12302
+,Despesa,Custo das Mercadorias Vendidas,-41007
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,116439
+,Despesa,Impostos sobre Vendas,-13972
+,Despesa,Custo das Mercadorias Vendidas,-46575
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,149351
+,Despesa,Impostos sobre Vendas,-17922
+,Despesa,Custo das Mercadorias Vendidas,-59740
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,94212
+,Despesa,Impostos sobre Vendas,-11305
+,Despesa,Custo das Mercadorias Vendidas,-37684
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,124814
+,Despesa,Impostos sobre Vendas,-14977
+,Despesa,Custo das Mercadorias Vendidas,-49925
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,134090
+,Despesa,Impostos sobre Vendas,-16090
+,Despesa,Custo das Mercadorias Vendidas,-53636
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,91497
+,Despesa,Impostos sobre Vendas,-10979
+,Despesa,Custo das Mercadorias Vendidas,-36598
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,107469
+,Despesa,Impostos sobre Vendas,-12896
+,Despesa,Custo das Mercadorias Vendidas,-42987
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,102640
+,Despesa,Impostos sobre Vendas,-12316
+,Despesa,Custo das Mercadorias Vendidas,-41056
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,116767
+,Despesa,Impostos sobre Vendas,-14012
+,Despesa,Custo das Mercadorias Vendidas,-46706
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,94775
+,Despesa,Impostos sobre Vendas,-11373
+,Despesa,Custo das Mercadorias Vendidas,-37910
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,140917
+,Despesa,Impostos sobre Vendas,-16910
+,Despesa,Custo das Mercadorias Vendidas,-56366
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,139061
+,Despesa,Impostos sobre Vendas,-16687
+,Despesa,Custo das Mercadorias Vendidas,-55624
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Despesa,Despesas Financeiras,-1500
+,Receita,Receita Bruta de Vendas,98241
+,Despesa,Impostos sobre Vendas,-11788
+,Despesa,Custo das Mercadorias Vendidas,-39296
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,96454
+,Despesa,Impostos sobre Vendas,-11574
+,Despesa,Custo das Mercadorias Vendidas,-38581
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,115507
+,Despesa,Impostos sobre Vendas,-13860
+,Despesa,Custo das Mercadorias Vendidas,-46202
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,127426
+,Despesa,Impostos sobre Vendas,-15291
+,Despesa,Custo das Mercadorias Vendidas,-50970
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,129866
+,Despesa,Impostos sobre Vendas,-15583
+,Despesa,Custo das Mercadorias Vendidas,-51946
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Financeira,2000
+,Receita,Receita Bruta de Vendas,120653
+,Despesa,Impostos sobre Vendas,-14478
+,Despesa,Custo das Mercadorias Vendidas,-48261
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,131659
+,Despesa,Impostos sobre Vendas,-15799
+,Despesa,Custo das Mercadorias Vendidas,-52663
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,120857
+,Despesa,Impostos sobre Vendas,-14502
+,Despesa,Custo das Mercadorias Vendidas,-48342
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,133203
+,Despesa,Impostos sobre Vendas,-15984
+,Despesa,Custo das Mercadorias Vendidas,-53281
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,89008
+,Despesa,Impostos sobre Vendas,-10680
+,Despesa,Custo das Mercadorias Vendidas,-35603
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,88416
+,Despesa,Impostos sobre Vendas,-10609
+,Despesa,Custo das Mercadorias Vendidas,-35366
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,90301
+,Despesa,Impostos sobre Vendas,-10836
+,Despesa,Custo das Mercadorias Vendidas,-36120
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,148076
+,Despesa,Impostos sobre Vendas,-17769
+,Despesa,Custo das Mercadorias Vendidas,-59230
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,83692
+,Despesa,Impostos sobre Vendas,-10043
+,Despesa,Custo das Mercadorias Vendidas,-33476
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,118853
+,Despesa,Impostos sobre Vendas,-14262
+,Despesa,Custo das Mercadorias Vendidas,-47541
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,96350
+,Despesa,Impostos sobre Vendas,-11562
+,Despesa,Custo das Mercadorias Vendidas,-38540
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,107964
+,Despesa,Impostos sobre Vendas,-12955
+,Despesa,Custo das Mercadorias Vendidas,-43185
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,114162
+,Despesa,Impostos sobre Vendas,-13699
+,Despesa,Custo das Mercadorias Vendidas,-45664
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Despesa,Despesas Financeiras,-1500
+,Receita,Receita Bruta de Vendas,112488
+,Despesa,Impostos sobre Vendas,-13498
+,Despesa,Custo das Mercadorias Vendidas,-44995
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,119930
+,Despesa,Impostos sobre Vendas,-14391
+,Despesa,Custo das Mercadorias Vendidas,-47972
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,100254
+,Despesa,Impostos sobre Vendas,-12030
+,Despesa,Custo das Mercadorias Vendidas,-40101
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,110112
+,Despesa,Impostos sobre Vendas,-13213
+,Despesa,Custo das Mercadorias Vendidas,-44044
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,81052
+,Despesa,Impostos sobre Vendas,-9726
+,Despesa,Custo das Mercadorias Vendidas,-32420
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Financeira,2000
+,Receita,Receita Bruta de Vendas,129714
+,Despesa,Impostos sobre Vendas,-15565
+,Despesa,Custo das Mercadorias Vendidas,-51885
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,115559
+,Despesa,Impostos sobre Vendas,-13867
+,Despesa,Custo das Mercadorias Vendidas,-46223
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,126838
+,Despesa,Impostos sobre Vendas,-15220
+,Despesa,Custo das Mercadorias Vendidas,-50735
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,117479
+,Despesa,Impostos sobre Vendas,-14097
+,Despesa,Custo das Mercadorias Vendidas,-46991
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,123125
+,Despesa,Impostos sobre Vendas,-14775
+,Despesa,Custo das Mercadorias Vendidas,-49250
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,98631
+,Despesa,Impostos sobre Vendas,-11835
+,Despesa,Custo das Mercadorias Vendidas,-39452
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,97934
+,Despesa,Impostos sobre Vendas,-11752
+,Despesa,Custo das Mercadorias Vendidas,-39173
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,115673
+,Despesa,Impostos sobre Vendas,-13880
+,Despesa,Custo das Mercadorias Vendidas,-46269
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,98195
+,Despesa,Impostos sobre Vendas,-11783
+,Despesa,Custo das Mercadorias Vendidas,-39278
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,104256
+,Despesa,Impostos sobre Vendas,-12510
+,Despesa,Custo das Mercadorias Vendidas,-41702
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Financeira,2000
+,Despesa,Despesas Financeiras,-1500
+,Investimento,Compra de Veículo (Imobilizado),-70000
+,Despesa,Depreciação de Imobilizado,-5000
+,Receita,Receita Bruta de Vendas,119104
+,Despesa,Impostos sobre Vendas,-14292
+,Despesa,Custo das Mercadorias Vendidas,-47641
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,100553
+,Despesa,Impostos sobre Vendas,-12066
+,Despesa,Custo das Mercadorias Vendidas,-40221
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,87810
+,Despesa,Impostos sobre Vendas,-10537
+,Despesa,Custo das Mercadorias Vendidas,-35124
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Despesa,Despesas Financeiras,-1500
+,Receita,Receita Bruta de Vendas,130268
+,Despesa,Impostos sobre Vendas,-15632
+,Despesa,Custo das Mercadorias Vendidas,-52107
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,116647
+,Despesa,Impostos sobre Vendas,-13997
+,Despesa,Custo das Mercadorias Vendidas,-46658
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,100647
+,Despesa,Impostos sobre Vendas,-12077
+,Despesa,Custo das Mercadorias Vendidas,-40258
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,109094
+,Despesa,Impostos sobre Vendas,-13091
+,Despesa,Custo das Mercadorias Vendidas,-43637
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,95167
+,Despesa,Impostos sobre Vendas,-11420
+,Despesa,Custo das Mercadorias Vendidas,-38066
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Financeira,2000
+,Receita,Receita Bruta de Vendas,128832
+,Despesa,Impostos sobre Vendas,-15459
+,Despesa,Custo das Mercadorias Vendidas,-51532
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,81436
+,Despesa,Impostos sobre Vendas,-9772
+,Despesa,Custo das Mercadorias Vendidas,-32574
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,149919
+,Despesa,Impostos sobre Vendas,-17990
+,Despesa,Custo das Mercadorias Vendidas,-59967
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,102144
+,Despesa,Impostos sobre Vendas,-12257
+,Despesa,Custo das Mercadorias Vendidas,-40857
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,112787
+,Despesa,Impostos sobre Vendas,-13534
+,Despesa,Custo das Mercadorias Vendidas,-45114
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,109732
+,Despesa,Impostos sobre Vendas,-13167
+,Despesa,Custo das Mercadorias Vendidas,-43892
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,90277
+,Despesa,Impostos sobre Vendas,-10833
+,Despesa,Custo das Mercadorias Vendidas,-36110
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,136299
+,Despesa,Impostos sobre Vendas,-16355
+,Despesa,Custo das Mercadorias Vendidas,-54519
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
+,Receita,Receita Bruta de Vendas,98800
+,Despesa,Impostos sobre Vendas,-11856
+,Despesa,Custo das Mercadorias Vendidas,-39520
+,Despesa,Salários e Encargos,-25000
+,Despesa,Aluguel,-8000
+,Despesa,Energia Elétrica,-3000
+,Despesa,Despesas Administrativas,-5000
